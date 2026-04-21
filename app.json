@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Ineterest Calculator",
+    "name": "Interest Calculator",
     "slug": "interest-calculator",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,7 +15,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#080C14"
       },
-      "package": "com.aditto.depositiq",
+      "package": "com.aditto.interestcalculator",
       "permissions": ["android.permission.INTERNET"]
     },
     "extra": {
