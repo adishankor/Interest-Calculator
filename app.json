@@ -10,18 +10,22 @@
     "splash": {
       "backgroundColor": "#080C14"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#080C14"
       },
       "package": "com.aditto.interestcalculator",
-      "permissions": ["android.permission.INTERNET"]
+      "permissions": [
+        "android.permission.INTERNET"
+      ]
     },
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "63781ea1-68c4-44b3-a941-d68cd1de76db"
       }
     }
   }
